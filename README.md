@@ -61,4 +61,4 @@ Coders will:
 - **Documentation** is a crucial part of software development, allowing you to understand and utilize code effectively.
 - **Resources** like W3Schools, Code Nation Coding Guides, and Bootstrap can significantly aid in learning and development.
 
-Happy coding!
+Happy coding! :)
